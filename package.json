@@ -1,8 +1,8 @@
-{
+{ 
+  "homepage": "https://MohamedAnas97.github.io/myduomo",
   "name": "chisfis",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@glidejs/glide": "^3.4.1",
@@ -49,6 +49,8 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "component": " npx generate-react-cli component"
   },
   "eslintConfig": {
@@ -83,6 +85,7 @@
     "@types/react-router-dom": "^5.1.7",
     "@types/redux-logger": "^3.0.8",
     "autoprefixer": "10.4.5",
+    "gh-pages": "^6.0.0",
     "postcss": "^8.1.0",
     "postcss-loader": "^7.3.3",
     "redux-logger": "^3.0.6",
