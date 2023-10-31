@@ -1,0 +1,17 @@
+@import "./_tw_safe_classes";
+@import "./_theme_colors";
+@import "./_theme_font";
+@import "./_theme_custom";
+@import "./_dates";
+@import "./_ant_design";
+//
+@import "./header";
+
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+
+// common css for all labels of antd
+.antd-label-container label {
+  font-family: "Poppins";
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}

@@ -1,0 +1,59 @@
+.ant-steps-item-title {
+  font-size: 14px !important;
+}
+.ant-modal-content {
+  font-family: "Poppins" !important;
+}
+
+.auto-search-container .ant-select-selector .ant-select-selection-search {
+  inset-inline-start: 0px !important;
+  inset-inline-end: 0px !important;
+  padding-left: 11px;
+  padding-right: 11px;
+}
+
+.auto-search-container .ant-select-selection-search-input {
+  width: 100% !important;
+  position: absolute !important;
+  padding: 10px !important;
+  left: 0px;
+  border-radius: 5px;
+  outline: none !important;
+}
+// .auto-search-container .ant-select-single {
+//   height: 47px !important;
+//   margin-top: 3px !important;
+// }
+.auto-search-container .ant-select-selector {
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+
+  border-color: #e5e7eb !important;
+}
+.phone-input-container input {
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+  border-left: 0px !important;
+  border-color: #e5e7eb !important;
+}
+.auto-search-container .ant-select-selector input {
+  font-size: 14px !important;
+}
+// .autosearch-container .ant-select-selector {
+//   border-radius: 17px !important;
+// }
+.ant-upload-list-container .ant-upload-list {
+  display: none !important;
+}
+
+:where(.css-dev-only-do-not-override-3mqfnx).ant-modal {
+  max-width: 98% !important;
+}
+.ant-form-item-explain-error {
+  color: #ff4d4f;
+  font-family: "Poppins";
+}
