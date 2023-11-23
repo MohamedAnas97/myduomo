@@ -11,13 +11,13 @@ const SectionOurFeatures: FC<SectionOurFeaturesProps> = ({
   className = "py-14",
 }) => {
   const video =
-    "https://res.cloudinary.com/dpr62vxd6/video/upload/v1697807207/where_to_next_lrx6cy.mp4";
+    "https://res.cloudinary.com/duhd0zz4q/video/upload/v1700663356/where_to_next_wsagcz.mp4";
   return (
     <div
       className={`nc-SectionOurFeatures relative flex flex-col lg:flex-row ${className}`}
       data-nc-id="SectionOurFeatures"
     >
-      <div className="flex-grow " >
+      <div className="flex-grow ">
         {/* <NcImage src={rightImg} /> */}
         <ReactPlayer
           url={video}
