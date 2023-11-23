@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myduomo/static/css/main.ad8a7035.css",
-    "main.js": "/myduomo/static/js/main.96d1e193.js",
+    "main.js": "/myduomo/static/js/main.93571cdf.js",
     "static/js/787.59c1dc0f.chunk.js": "/myduomo/static/js/787.59c1dc0f.chunk.js",
     "static/media/down.jpg": "/myduomo/static/media/down.7e7533d02503fc606803.jpg",
     "static/media/la-brands-400.svg": "/myduomo/static/media/la-brands-400.331115337bc9be66667a.svg",
@@ -100,11 +100,11 @@
     "static/media/Apple.svg": "/myduomo/static/media/Apple.7def6962d1f745243c739851bc81ffcd.svg",
     "index.html": "/myduomo/index.html",
     "main.ad8a7035.css.map": "/myduomo/static/css/main.ad8a7035.css.map",
-    "main.96d1e193.js.map": "/myduomo/static/js/main.96d1e193.js.map",
+    "main.93571cdf.js.map": "/myduomo/static/js/main.93571cdf.js.map",
     "787.59c1dc0f.chunk.js.map": "/myduomo/static/js/787.59c1dc0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad8a7035.css",
-    "static/js/main.96d1e193.js"
+    "static/js/main.93571cdf.js"
   ]
 }
